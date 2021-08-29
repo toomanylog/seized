@@ -4,7 +4,7 @@
 
 <br />
 <p align="center">
-  <a href="https://github.com/toomanylog/seized/">
+  <a href="#">
     <img src="images/poweroff.png" alt="PowerOff" width="1000" height="280">
   </a>
 
@@ -22,7 +22,7 @@
 </p>
     <br />
     
-  <a href="https://github.com/toomanylog/seized/">
+  <a href="#">
     <img src="https://i.imgur.com/O90k6lA.png" alt="Preview" width="1024" height="768">
   </a>
 
